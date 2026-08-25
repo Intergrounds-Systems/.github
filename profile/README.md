@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Intergrounds-Systems/.github/blob/main/assets/logo.svg" alt="Intergrounds Systems logo" width="120" />
+  <img src="https://github.com/Intergrounds-Systems/.github/blob/main/assets/logo.svg" alt="Intergrounds Systems logo" width="512" />
 
 # Intergrounds Systems
 </div>

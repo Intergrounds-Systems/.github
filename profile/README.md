@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/logo.svg" alt="Intergrounds Systems logo" width="120" />
+  <img src="https://github.com/Intergrounds-Systems/.github/blob/main/assets/logo.svg" alt="Intergrounds Systems logo" width="120" />
 
 # Intergrounds Systems
 </div>
 
-A personal software engineering brand.
+A personal software engineering brand by Chris Beimers, focusing on systems engineering.
 
 ## Projects
 

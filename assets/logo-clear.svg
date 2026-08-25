@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 132 132" role="img" aria-label="Intergrounds Systems">
   <title>Intergrounds Systems</title>
-  <rect x="0" y="0" width="132" height="132" fill="#ffffff"></rect>
   <ellipse cx="66" cy="66" rx="54" ry="22" fill="none" stroke="#0B6B25" stroke-width="9" transform="rotate(60 66 66)"></ellipse>
   <ellipse cx="66" cy="66" rx="56" ry="23" fill="none" stroke="#0B6B25" stroke-width="9"></ellipse>
   <polygon points="66,52 80,59 66,66 52,59" fill="#2E8B39"></polygon>

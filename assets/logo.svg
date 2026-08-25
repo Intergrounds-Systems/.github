@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 132 132" role="img" aria-label="Intergrounds Systems">
+  <title>Intergrounds Systems</title>
+  <ellipse cx="66" cy="66" rx="54" ry="22" fill="none" stroke="#0B6B25" stroke-width="9" transform="rotate(60 66 66)"></ellipse>
+  <ellipse cx="66" cy="66" rx="56" ry="23" fill="none" stroke="#0B6B25" stroke-width="9"></ellipse>
+  <polygon points="66,52 80,59 66,66 52,59" fill="#2E8B39"></polygon>
+  <polygon points="52,59 66,66 66,80 52,73" fill="#0B6B25"></polygon>
+  <polygon points="66,66 80,59 80,73 66,80" fill="#064E19"></polygon>
+  <path d="M 10 66 A 56 23 0 0 0 122 66" fill="none" stroke="#0B6B25" stroke-width="9"></path>
+</svg>
